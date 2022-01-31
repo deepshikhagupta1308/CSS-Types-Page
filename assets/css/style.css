@@ -1,0 +1,26 @@
+body{
+    background: aliceblue;
+}
+h1{
+    text-align: center;
+    color: orange;
+    font-style: italic;
+    text-decoration: underline;
+}
+.para{
+    color: blue;
+    font-weight: bold;
+    font-size: 150%;
+    background-color: blanchedalmond;
+}
+p{
+    font-style: italic;
+}
+#para2{
+    background-color: aqua;
+    font-size: 2.1em;
+    font-family: cursive;
+}
+#image{
+    text-align: center;
+}
